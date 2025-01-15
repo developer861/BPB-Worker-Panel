@@ -1,16 +1,16 @@
 {
   "deadCodeInjection": true,
-  "deadCodeInjectionThreshold": 0.4,
+  "deadCodeInjectionThreshold": 0.2,
   "compact": true,
-  "controlFlowFlattening": true,
+  "controlFlowFlattening": false,
   "renameGlobals": true,
   "identifierNamesGenerator": "hexadecimal",
   "stringArray": true,
   "stringArrayEncoding": ["rc4"],
   "transformObjectKeys": true,
-  "unicodeEscapeSequence": true,
-  "numbersToExpressions": true,
+  "unicodeEscapeSequence": false,
+  "numbersToExpressions": false,
   "splitStrings": true,
-  "splitStringsChunkLength": 2,
+  "splitStringsChunkLength": 3,
   "target": "node"
 }
