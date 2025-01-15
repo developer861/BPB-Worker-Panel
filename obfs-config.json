@@ -1,13 +1,9 @@
 {
   "deadCodeInjection": true,
   "deadCodeInjectionThreshold": 0.2,
-  "compact": true,
-  "controlFlowFlattening": false,
   "renameGlobals": true,
-  "transformObjectKeys": true,
-  "unicodeEscapeSequence": false,
-  "numbersToExpressions": false,
   "splitStrings": true,
-  "splitStringsChunkLength": 3,
+  "splitStringsChunkLength": 2,
+  "transformObjectKeys": true,
   "target": "node"
 }
