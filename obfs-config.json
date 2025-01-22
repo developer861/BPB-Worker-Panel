@@ -16,6 +16,6 @@
 "splitStrings": true,
 "splitStringsChunkLength": 3,
 "unicodeEscapeSequence": true,
-"numbersToExpressions": true,
+"numbersToExpressions": false,
 "transformObjectKeys": true
 }
