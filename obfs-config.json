@@ -12,6 +12,7 @@
 "stringArrayThreshold": 0.2,
 "stringArrayRotate": true,
 "stringArrayIndexShift": false,
+"stringArrayShuffle": false,
 "splitStrings": true,
 "splitStringsChunkLength": 3,
 "unicodeEscapeSequence": true,
